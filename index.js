@@ -103,6 +103,7 @@ function macSonucu(callback, ceyrekSayisi) {
     KonukTakim: KonukTakim,
   };
 }
+//
 
 /* Zorlayıcı Görev 4: periyotSkoru()
 Aşağıdaki periyotSkoru() fonksiyonununda aşağıdakileri yapınız:
